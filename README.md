@@ -1,3 +1,3 @@
 # git_demo
 <br>
-I am Learning Git
+This is second Git Repository
