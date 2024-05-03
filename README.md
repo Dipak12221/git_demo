@@ -2,4 +2,3 @@
 <br>
 
 This is second Git Repository
-Author : Dipak Yadav (Current User)
